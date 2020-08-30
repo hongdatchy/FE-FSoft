@@ -1,0 +1,27 @@
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+}
+a .list-group-item:hover{
+    background: #393e42 !important;
+}
+.my-active{
+    background: #c2b8b8 !important;
+}
+::placeholder { 
+    color: gray !important;
+}
+.form-group {
+    margin-bottom: 0px !important;
+}
+.my-bg{
+    background: #f8f8f8;
+}
+strong.text-dark {
+    line-height: 38px;
+}
+tr th:nth-child(4){
+    min-width: 130px;
+}

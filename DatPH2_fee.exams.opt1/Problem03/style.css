@@ -1,0 +1,15 @@
+#table-bill{
+    border: 2px solid pink;
+}
+#table-bill img{
+    width: 70%;
+    height: auto;
+}
+#table-bill tr td:first-child{
+    width: 100px;
+}
+.title-table{
+    color: white;
+    background: #7952b3;
+    height: 50px;
+}
